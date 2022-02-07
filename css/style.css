@@ -1,0 +1,9 @@
+/* Jumbotron */
+.jumbotron {
+  padding: 2rem 0rem 0rem 0rem;
+  background-color: #e2edff;
+}
+
+.jumbotron img {
+  width: 15%;
+}

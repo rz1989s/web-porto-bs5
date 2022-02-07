@@ -1,9 +1,18 @@
+body {
+  min-height: 3000px;
+}
+
 /* Jumbotron */
 .jumbotron {
-  padding: 2rem 0rem 0rem 0rem;
+  padding-top: 2rem;
   background-color: #e2edff;
 }
 
 .jumbotron img {
   width: 15%;
+}
+
+/* My Projects */
+#projects {
+  background-color: #e2edff;
 }

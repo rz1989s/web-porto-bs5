@@ -2,12 +2,16 @@
 
 /* Jumbotron */
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 7rem;
   background-color: #e2edff;
 }
 
 .jumbotron img {
-  width: 15%;
+  width: 200px;
+}
+
+section {
+  padding-top: 4rem;
 }
 
 /* My Projects */
